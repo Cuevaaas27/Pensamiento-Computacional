@@ -1,0 +1,7 @@
+C:\Users\Estudiante\Desktop\SEMANA_6_LABORATORIO_1134222_Diego_Cuevas\L5_DC_1134222\L5_DC_1134222\bin\Debug\L5_DC_1134222.exe.config
+C:\Users\Estudiante\Desktop\SEMANA_6_LABORATORIO_1134222_Diego_Cuevas\L5_DC_1134222\L5_DC_1134222\bin\Debug\L5_DC_1134222.exe
+C:\Users\Estudiante\Desktop\SEMANA_6_LABORATORIO_1134222_Diego_Cuevas\L5_DC_1134222\L5_DC_1134222\bin\Debug\L5_DC_1134222.pdb
+C:\Users\Estudiante\Desktop\SEMANA_6_LABORATORIO_1134222_Diego_Cuevas\L5_DC_1134222\L5_DC_1134222\obj\Debug\L5_DC_1134222.csproj.AssemblyReference.cache
+C:\Users\Estudiante\Desktop\SEMANA_6_LABORATORIO_1134222_Diego_Cuevas\L5_DC_1134222\L5_DC_1134222\obj\Debug\L5_DC_1134222.csproj.CoreCompileInputs.cache
+C:\Users\Estudiante\Desktop\SEMANA_6_LABORATORIO_1134222_Diego_Cuevas\L5_DC_1134222\L5_DC_1134222\obj\Debug\L5_DC_1134222.exe
+C:\Users\Estudiante\Desktop\SEMANA_6_LABORATORIO_1134222_Diego_Cuevas\L5_DC_1134222\L5_DC_1134222\obj\Debug\L5_DC_1134222.pdb
