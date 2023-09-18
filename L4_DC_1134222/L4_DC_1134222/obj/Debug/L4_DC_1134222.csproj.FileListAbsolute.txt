@@ -1,0 +1,7 @@
+C:\Users\Estudiante\Desktop\Progra DC\L4_DC_1134222\L4_DC_1134222\bin\Debug\L4_DC_1134222.exe.config
+C:\Users\Estudiante\Desktop\Progra DC\L4_DC_1134222\L4_DC_1134222\bin\Debug\L4_DC_1134222.exe
+C:\Users\Estudiante\Desktop\Progra DC\L4_DC_1134222\L4_DC_1134222\bin\Debug\L4_DC_1134222.pdb
+C:\Users\Estudiante\Desktop\Progra DC\L4_DC_1134222\L4_DC_1134222\obj\Debug\L4_DC_1134222.csproj.AssemblyReference.cache
+C:\Users\Estudiante\Desktop\Progra DC\L4_DC_1134222\L4_DC_1134222\obj\Debug\L4_DC_1134222.csproj.CoreCompileInputs.cache
+C:\Users\Estudiante\Desktop\Progra DC\L4_DC_1134222\L4_DC_1134222\obj\Debug\L4_DC_1134222.exe
+C:\Users\Estudiante\Desktop\Progra DC\L4_DC_1134222\L4_DC_1134222\obj\Debug\L4_DC_1134222.pdb
